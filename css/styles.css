@@ -8,9 +8,6 @@ body{
     background-image: none;
 } 
 
-.navbar-brand{
-  
-}
 .navbar{
     padding:auto;
 }
@@ -29,7 +26,7 @@ body{
 }
 .big-heading{
     font-family: "Montserrat"; 
-    font-size: 3.5rem; 
+    font-size: 3.3rem; 
     line-height: 1.5;
     font-weight: 900;  
     color: #fff;
